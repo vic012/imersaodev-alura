@@ -1,0 +1,47 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align:center;
+  background-image: url('https://assets-br.wemystic.com.br/20191112193631/driving-into-the-sunset_1519291193-960x640.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+  background-color: #000000;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+.carro{
+  max-width:700px;
+  max-height:650px;
+  width: auto;
+  height: auto;
+}
+
+body > img {
+  margin: 0 10px;
+}
